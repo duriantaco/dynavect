@@ -1,0 +1,32 @@
+graph TD
+    subgraph Inputs
+        A[Source Image] --> B(CLIP Image Encoder);
+        C[Target Text] --> D(CLIP Text Encoder);
+    end
+
+    subgraph Global Direction
+        E[Global Direction Bank] --> F(Δw_global);
+    end
+
+    subgraph Contextual Modulation
+        B --> G(Dynamic Contextual Modulator);
+        D --> G;
+        G --> H(Δw_context);
+    end
+
+    subgraph Hybrid Edit
+        F --> I{Combine};
+        H --> I;
+        I --> J(Orthogonalize);
+        J --> K[w_final];
+    end
+    
+    subgraph Image Generation
+        L[w_source] --> M["Add Vectors"];
+        K --> M;
+        M --> N(StyleGAN Generator);
+        N --> O[Edited Image];
+    end
+
+    style G fill:#f9f,stroke:#333,stroke-width:2px
+    style N fill:#bbf,stroke:#333,stroke-width:2px

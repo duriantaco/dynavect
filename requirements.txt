@@ -1,0 +1,14 @@
+torch 
+torchvision
+ftfy
+regex
+tqdm
+pillow
+numpy
+matplotlib
+pandas
+opencv-python
+# git+https://github.com/openai/CLIP.git
+lpips
+insightface
+onnxruntime-gpu
