@@ -1,0 +1,59 @@
+prompt_text,image_A_url,image_B_url
+a young person,images/age_down/seed_1121_edit_age_down_method_styleclip_o.png,images/age_down/seed_1121_edit_age_down_method_ours.png
+a young person,images/age_down/seed_1121_edit_age_down_method_ours.png,images/age_down/seed_1121_edit_age_down_method_styleclip_g.png
+a young person,images/age_down/seed_13_edit_age_down_method_styleclip_o.png,images/age_down/seed_13_edit_age_down_method_ours.png
+a young person,images/age_down/seed_13_edit_age_down_method_styleclip_g.png,images/age_down/seed_13_edit_age_down_method_ours.png
+a young person,images/age_down/seed_15_edit_age_down_method_styleclip_o.png,images/age_down/seed_15_edit_age_down_method_ours.png
+a young person,images/age_down/seed_15_edit_age_down_method_ours.png,images/age_down/seed_15_edit_age_down_method_styleclip_g.png
+a young person,images/age_down/seed_537_edit_age_down_method_styleclip_o.png,images/age_down/seed_537_edit_age_down_method_ours.png
+a young person,images/age_down/seed_537_edit_age_down_method_ours.png,images/age_down/seed_537_edit_age_down_method_styleclip_g.png
+a young person,images/age_down/seed_909_edit_age_down_method_styleclip_o.png,images/age_down/seed_909_edit_age_down_method_ours.png
+a young person,images/age_down/seed_909_edit_age_down_method_ours.png,images/age_down/seed_909_edit_age_down_method_styleclip_g.png
+a young person,images/age_down/seed_945_edit_age_down_method_styleclip_o.png,images/age_down/seed_945_edit_age_down_method_ours.png
+a young person,images/age_down/seed_945_edit_age_down_method_styleclip_g.png,images/age_down/seed_945_edit_age_down_method_ours.png
+a young person,images/age_down/seed_95_edit_age_down_method_ours.png,images/age_down/seed_95_edit_age_down_method_styleclip_o.png
+a young person,images/age_down/seed_95_edit_age_down_method_ours.png,images/age_down/seed_95_edit_age_down_method_styleclip_g.png
+an old person,images/age_up/seed_12345_edit_age_up_method_ours.png,images/age_up/seed_12345_edit_age_up_method_styleclip_o.png
+an old person,images/age_up/seed_12345_edit_age_up_method_ours.png,images/age_up/seed_12345_edit_age_up_method_styleclip_g.png
+an old person,images/age_up/seed_159_edit_age_up_method_ours.png,images/age_up/seed_159_edit_age_up_method_styleclip_o.png
+an old person,images/age_up/seed_159_edit_age_up_method_styleclip_g.png,images/age_up/seed_159_edit_age_up_method_ours.png
+an old person,images/age_up/seed_193_edit_age_up_method_ours.png,images/age_up/seed_193_edit_age_up_method_styleclip_o.png
+an old person,images/age_up/seed_193_edit_age_up_method_styleclip_g.png,images/age_up/seed_193_edit_age_up_method_ours.png
+an old person,images/age_up/seed_198_edit_age_up_method_styleclip_o.png,images/age_up/seed_198_edit_age_up_method_ours.png
+an old person,images/age_up/seed_198_edit_age_up_method_ours.png,images/age_up/seed_198_edit_age_up_method_styleclip_g.png
+an old person,images/age_up/seed_538_edit_age_up_method_ours.png,images/age_up/seed_538_edit_age_up_method_styleclip_o.png
+an old person,images/age_up/seed_538_edit_age_up_method_ours.png,images/age_up/seed_538_edit_age_up_method_styleclip_g.png
+an angry face,images/angry/seed_196_edit_angry_face_method_ours.png,images/angry/seed_196_edit_angry_face_method_styleclip_o.png
+an angry face,images/angry/seed_196_edit_angry_face_method_ours.png,images/angry/seed_196_edit_angry_face_method_styleclip_g.png
+an angry face,images/angry/seed_2016_edit_angry_face_method_ours.png,images/angry/seed_2016_edit_angry_face_method_styleclip_o.png
+an angry face,images/angry/seed_2016_edit_angry_face_method_styleclip_g.png,images/angry/seed_2016_edit_angry_face_method_ours.png
+an angry face,images/angry/seed_2077_edit_angry_face_method_ours.png,images/angry/seed_2077_edit_angry_face_method_styleclip_o.png
+an angry face,images/angry/seed_2077_edit_angry_face_method_styleclip_g.png,images/angry/seed_2077_edit_angry_face_method_ours.png
+an angry face,images/angry/seed_61_edit_angry_face_method_styleclip_o.png,images/angry/seed_61_edit_angry_face_method_ours.png
+an angry face,images/angry/seed_61_edit_angry_face_method_ours.png,images/angry/seed_61_edit_angry_face_method_styleclip_g.png
+an angry face,images/angry/seed_888_edit_angry_face_method_styleclip_o.png,images/angry/seed_888_edit_angry_face_method_ours.png
+an angry face,images/angry/seed_888_edit_angry_face_method_styleclip_g.png,images/angry/seed_888_edit_angry_face_method_ours.png
+a sad face,images/sad/seed_2016_edit_sad_face_method_styleclip_o.png,images/sad/seed_2016_edit_sad_face_method_ours.png
+a sad face,images/sad/seed_2016_edit_sad_face_method_ours.png,images/sad/seed_2016_edit_sad_face_method_styleclip_g.png
+a sad face,images/sad/seed_4020_edit_sad_face_method_ours.png,images/sad/seed_4020_edit_sad_face_method_styleclip_o.png
+a sad face,images/sad/seed_4020_edit_sad_face_method_styleclip_g.png,images/sad/seed_4020_edit_sad_face_method_ours.png
+a sad face,images/sad/seed_494_edit_sad_face_method_styleclip_o.png,images/sad/seed_494_edit_sad_face_method_ours.png
+a sad face,images/sad/seed_494_edit_sad_face_method_ours.png,images/sad/seed_494_edit_sad_face_method_styleclip_g.png
+a sad face,images/sad/seed_524_edit_sad_face_method_ours.png,images/sad/seed_524_edit_sad_face_method_styleclip_o.png
+a sad face,images/sad/seed_524_edit_sad_face_method_ours.png,images/sad/seed_524_edit_sad_face_method_styleclip_g.png
+a sad face,images/sad/seed_538_edit_sad_face_method_styleclip_o.png,images/sad/seed_538_edit_sad_face_method_ours.png
+a sad face,images/sad/seed_538_edit_sad_face_method_ours.png,images/sad/seed_538_edit_sad_face_method_styleclip_g.png
+a person wearing sunglasses + an old person + a smiling face,images/yo_smile_sunglasses/seed_3_edit_combined_method_styleclip_o.png,images/yo_smile_sunglasses/seed_3_edit_combined_method_ours.png
+a person wearing sunglasses + an old person + a smiling face,images/yo_smile_sunglasses/seed_3_edit_combined_method_ours.png,images/yo_smile_sunglasses/seed_3_edit_combined_method_styleclip_g.png
+a person wearing sunglasses + an old person + a smiling face,images/yo_smile_sunglasses/seed_53_edit_combined_method_styleclip_o.png,images/yo_smile_sunglasses/seed_53_edit_combined_method_ours.png
+a person wearing sunglasses + an old person + a smiling face,images/yo_smile_sunglasses/seed_53_edit_combined_method_ours.png,images/yo_smile_sunglasses/seed_53_edit_combined_method_styleclip_g.png
+a person wearing sunglasses + an old person + a smiling face,images/yo_smile_sunglasses/seed_54_edit_combined_method_ours.png,images/yo_smile_sunglasses/seed_54_edit_combined_method_styleclip_o.png
+a person wearing sunglasses + an old person + a smiling face,images/yo_smile_sunglasses/seed_54_edit_combined_method_styleclip_g.png,images/yo_smile_sunglasses/seed_54_edit_combined_method_ours.png
+a person wearing sunglasses + an old person + a smiling face,images/yo_smile_sunglasses/seed_61_edit_combined_method_ours.png,images/yo_smile_sunglasses/seed_61_edit_combined_method_styleclip_o.png
+a person wearing sunglasses + an old person + a smiling face,images/yo_smile_sunglasses/seed_61_edit_combined_method_styleclip_g.png,images/yo_smile_sunglasses/seed_61_edit_combined_method_ours.png
+a person wearing sunglasses + an old person + a smiling face,images/yo_smile_sunglasses/seed_645_edit_combined_method_ours.png,images/yo_smile_sunglasses/seed_645_edit_combined_method_styleclip_o.png
+a person wearing sunglasses + an old person + a smiling face,images/yo_smile_sunglasses/seed_645_edit_combined_method_styleclip_g.png,images/yo_smile_sunglasses/seed_645_edit_combined_method_ours.png
+a person wearing sunglasses + an old person + a smiling face,images/yo_smile_sunglasses/seed_7_edit_combined_method_ours.png,images/yo_smile_sunglasses/seed_7_edit_combined_method_styleclip_o.png
+a person wearing sunglasses + an old person + a smiling face,images/yo_smile_sunglasses/seed_7_edit_combined_method_styleclip_g.png,images/yo_smile_sunglasses/seed_7_edit_combined_method_ours.png
+a person wearing sunglasses + an old person + a smiling face,images/yo_smile_sunglasses/seed_8_edit_combined_method_styleclip_o.png,images/yo_smile_sunglasses/seed_8_edit_combined_method_ours.png
+a person wearing sunglasses + an old person + a smiling face,images/yo_smile_sunglasses/seed_8_edit_combined_method_ours.png,images/yo_smile_sunglasses/seed_8_edit_combined_method_styleclip_g.png

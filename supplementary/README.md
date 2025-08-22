@@ -65,4 +65,4 @@ If you use this data, please cite:
 > Anonymous *DynaVect: Context-Aware Modulation of Global Edit Directions for Controllable GAN Editing*. 2025.
 
 ## Contact
-For questions: -
+For questions:-
